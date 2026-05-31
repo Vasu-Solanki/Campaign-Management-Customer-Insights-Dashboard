@@ -100,7 +100,7 @@ These are the dominant customer engagement channels, showing where marketing eff
 
 ![Campaign_management_page-0001](https://github.com/user-attachments/assets/70d28fec-6aff-472f-bc38-3be7d82b7c46)
 ![Campaign_management_page-0002](https://github.com/user-attachments/assets/62a0a4ff-0e34-44b2-a5d5-eaa092dc89e6)
-![campaing 1.pdf](https://github.com/user-attachments/files/28435311/campaing.1.pdf)
+<img width="2075" height="1200" alt="campaing 1_page-0001" src="https://github.com/user-attachments/assets/37667f52-98fb-4a7d-859b-46900da9d94e" />
 
 ---
 
